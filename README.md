@@ -4,6 +4,7 @@ Acessa dados gerados em tempo real por sensores, possibilitando a geração de g
 
 ## Tecnologias Utilizadas
 
+- **Node.js**
 - **Express.js**
 - **JavaScript**
 
